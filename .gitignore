@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+db.sqlite3
+staticfiles/
+
+# Node
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Env / IDE
+.env
+.idea/
+.vscode/
+.DS_Store
